@@ -56,7 +56,7 @@ promote the client and help users find what they are looking for easily.
 
 ## Education
 
-### Ravensbourne, London - September 2014 to June 2017
+#### Ravensbourne, London - September 2014 to June 2017
 Web Production (BA Hons) First class
 * Front end: JavaScript(ES6), React, HTML(5), CSS(3), SASS, PHP and Wordpress
 * Back end: Node.js, Express, MongoDB, Ruby on Rails and API's
@@ -64,7 +64,7 @@ Web Production (BA Hons) First class
 * Project management: Version control (Git), Agile and Lean Startup methodologies, Deployments and Client interaction
 
 
-### Somerset College, Taunton - September 2013 to June 2014
+#### Somerset College, Taunton - September 2013 to June 2014
 Foundation in Art and Design (FDA) DMM
 * Graphic design
 * Screenprinting
