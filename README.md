@@ -12,10 +12,11 @@ Project (Github) | Description | Technologies
 [Up-time](https://github.com/Jonnygwi/up-time-prototype) | A platform to boost the wellbeing of patients going through dialysis treatment. | JavaScript, React, HTML, CSS, Node, Express, MongoDB and JQuery(prototype),  
 [Tung](https://github.com/Jonnygwi/Tung-public) | Tung is a facebook chatbot that auto-translates messages to your friends. | JavaScript, Node, Facebook messenger API, Google translate API and Firebase
 [Serendipitweet](https://github.com/Jonnygwi/Serendipitweet) | Twitter bot that sends tweet mashups based on it's followers' tweets. It requires a strange kind of humour. | JavaScript, Node and Twitter API
+[Apps from scratch](https://github.com/03difoha/AppsFromScratch) | An open source six week Saturday course. Teaching the fundementals of web development and app development. | HTML, CSS, JavaScript and Firebase
 
 ## Experience
 
-### [Up-time](http://www.jonnygwillim.co.uk)
+### [Up-time](http://www.jonnygwillim.co.uk) March 2017 to Present
 
 #### Project Lead
 
@@ -23,7 +24,7 @@ Up-time is a platform that aims to boost the wellbeing of patients going
 through dialysis treatment. I have designed, built, tested, user tested and
 creatively directed Up-time. Up-time was prototyped in JQuery but is now being built in React for scaleability.
 
-### [Hacksy](https://gethacksy.com)
+### [Hacksy](https://gethacksy.com) June 2016 to September 2016
 
 #### Frontend developer
 
@@ -33,9 +34,7 @@ solutions for Hacksy, a multiple state web application, from its minimum
 viable product to a minimum saleable product. I helped to get Hacksy to
 the top of the Product Hunt weekly chart.
 
-### [Apps from scratch](https://codeyourapp.club/)
-
-#### [Apps from scratch (Github, course content)](https://github.com/03difoha/AppsFromScratch)
+### [Apps from scratch](https://codeyourapp.club/) March 2016 to Present
 
 #### Course lead and facilitator
 
@@ -45,7 +44,7 @@ increase employment in the Greenwich Borough. I co-created and
 co-delivered this open source course every Saturday at Ravensbourne
 University.
 
-### [Medico Digital](https://www.medicodigital.co.uk/)
+### [Medico Digital](https://www.medicodigital.co.uk/) April 2014 to April 2015
 
 #### Frontend developer
 
