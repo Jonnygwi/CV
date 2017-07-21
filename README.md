@@ -16,7 +16,7 @@ Project (Github) | Description | Technologies
 
 ## Experience
 
-### [Up-time](http://www.jonnygwillim.co.uk) March 2017 to Present
+#### [Up-time](http://www.jonnygwillim.co.uk) March 2017 to Present
 
 #### Project Lead
 
@@ -24,7 +24,7 @@ Up-time is a platform that aims to boost the wellbeing of patients going
 through dialysis treatment. I have designed, built, tested, user tested and
 creatively directed Up-time. Up-time was prototyped in JQuery but is now being built in React for scaleability.
 
-### [Hacksy](https://gethacksy.com) June 2016 to September 2016
+#### [Hacksy](https://gethacksy.com) June 2016 to September 2016
 
 #### Frontend developer
 
@@ -34,7 +34,7 @@ solutions for Hacksy, a multiple state web application, from its minimum
 viable product to a minimum saleable product. I helped to get Hacksy to
 the top of the Product Hunt weekly chart.
 
-### [Apps from scratch](https://codeyourapp.club/) March 2016 to Present
+#### [Apps from scratch](https://codeyourapp.club/) March 2016 to Present
 
 #### Course lead and facilitator
 
@@ -44,7 +44,7 @@ increase employment in the Greenwich Borough. I co-created and
 co-delivered this open source course every Saturday at Ravensbourne
 University.
 
-### [Medico Digital](https://www.medicodigital.co.uk/) April 2014 to April 2015
+#### [Medico Digital](https://www.medicodigital.co.uk/) April 2014 to April 2015
 
 #### Frontend developer
 
