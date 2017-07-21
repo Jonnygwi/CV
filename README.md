@@ -18,7 +18,7 @@ Project (Github) | Description | Technologies
 
 #### [Up-time](http://www.jonnygwillim.co.uk) March 2017 to Present
 
-#### Project Lead
+*Project Lead*
 
 Up-time is a platform that aims to boost the wellbeing of patients going
 through dialysis treatment. I have designed, built, tested, user tested and
@@ -26,17 +26,17 @@ creatively directed Up-time. Up-time was prototyped in JQuery but is now being b
 
 #### [Hacksy](https://gethacksy.com) June 2016 to September 2016
 
-#### Frontend developer
+*Front end developer*
 
 Hacksy is an online learning tool built by Decoded, the technology
-educator. My role was to come up with and develop frontend technical
+educator. My role was to come up with and develop front end technical
 solutions for Hacksy, a multiple state web application, from its minimum
 viable product to a minimum saleable product. I helped to get Hacksy to
 the top of the Product Hunt weekly chart.
 
 #### [Apps from scratch](https://codeyourapp.club/) March 2016 to Present
 
-#### Course lead and facilitator
+*Course lead and facilitator*
 
 Apps from Scratch is a six week weekend course that teaches individuals
 how to code. It is a part of the Greenwich Digital Skills scheme that aims to
@@ -46,7 +46,7 @@ University.
 
 #### [Medico Digital](https://www.medicodigital.co.uk/) April 2014 to April 2015
 
-#### Frontend developer
+*Front end developer*
 
 Medico Digital is a digital agency that helps brings healthcare
 professionals into the modern world. Medico’s clients range from hospitals,
@@ -58,8 +58,8 @@ promote the client and help users find what they are looking for easily.
 
 ### Ravensbourne, London - September 2014 to June 2017
 Web Production (BA Hons) First class
-* Frontend: JavaScript(ES6), React, HTML(5), CSS(3), SASS, PHP and Wordpress
-* Backend: Node.js, Express, MongoDB, Ruby on Rails and API's
+* Front end: JavaScript(ES6), React, HTML(5), CSS(3), SASS, PHP and Wordpress
+* Back end: Node.js, Express, MongoDB, Ruby on Rails and API's
 * UX: User research, User testing, User personas, Sketch, Illustrator and Photoshop
 * Project management: Version control (Git), Agile and Lean Startup methodologies, Deployments and Client interaction
 
