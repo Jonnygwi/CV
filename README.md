@@ -1,6 +1,9 @@
 # Jonny Gwillim
+
 [jonnygwillim@gmail.com](mailto:jonnygwillim@gmail.com)
+
 [PDF version](https://github.com/jonnygwi/CV/raw/master/resume.pdf)
+
 [Portfolio](www.jonny.land) | [Github](https://github.com/jonnygwi) | [Linkedin](linkedin.com/in/jonnygwillim/)
 
 ## Projects
@@ -8,7 +11,7 @@ Project (Github) | Description | Technologies
 --- | --- | ---
 [Up-time](https://github.com/Jonnygwi/up-time-prototype) | A platform to boost the wellbeing of patients going through dialysis treatment. | JavaScript, React, HTML, CSS, Node, Express, MongoDB and JQuery(prototype),  
 [Tung](https://github.com/Jonnygwi/Tung-public) | Tung is a facebook chatbot that auto-translates messages to your friends. | JavaScript, Node, Facebook messenger API, Google translate API and Firebase
-[Serendipitweet](https://github.com/Jonnygwi/Serendipitweet) | JavaScript, Node and Twitter API
+[Serendipitweet](https://github.com/Jonnygwi/Serendipitweet) | Twitter bot that sends tweet mashups based on it's followers' tweets. It requires a strange kind of humour. | JavaScript, Node and Twitter API
 
 ## Experience
 
