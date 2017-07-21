@@ -24,16 +24,6 @@ Up-time is a platform that aims to boost the wellbeing of patients going
 through dialysis treatment. I have designed, built, tested, user tested and
 creatively directed Up-time. Up-time was prototyped in JQuery but is now being built in React for scaleability.
 
-#### [Hacksy](https://gethacksy.com) June 2016 to September 2016
-
-*Front end developer*
-
-Hacksy is an online learning tool built by Decoded, the technology
-educator. My role was to come up with and develop front end technical
-solutions for Hacksy, a multiple state web application, from its minimum
-viable product to a minimum saleable product. I helped to get Hacksy to
-the top of the Product Hunt weekly chart.
-
 #### [Apps from scratch](https://codeyourapp.club/) March 2016 to Present
 
 *Course lead and facilitator*
@@ -43,6 +33,16 @@ how to code. It is a part of the Greenwich Digital Skills scheme that aims to
 increase employment in the Greenwich Borough. I co-created and
 co-delivered this open source course every Saturday at Ravensbourne
 University.
+
+#### [Hacksy](https://gethacksy.com) June 2016 to September 2016
+
+*Front end developer*
+
+Hacksy is an online learning tool built by Decoded, the technology
+educator. My role was to come up with and develop front end technical
+solutions for Hacksy, a multiple state web application, from its minimum
+viable product to a minimum saleable product. I helped to get Hacksy to
+the top of the Product Hunt weekly chart.
 
 #### [Medico Digital](https://www.medicodigital.co.uk/) April 2014 to April 2015
 
