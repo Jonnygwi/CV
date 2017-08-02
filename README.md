@@ -4,7 +4,7 @@
 
 [PDF version](https://github.com/jonnygwi/CV/raw/master/resume.pdf)
 
-[Portfolio](www.jonny.land) | [Github](https://github.com/jonnygwi) | [Linkedin](linkedin.com/in/jonnygwillim/)
+[Portfolio](https://www.jonny.land) | [Github](https://github.com/jonnygwi) | [Linkedin](https://linkedin.com/in/jonnygwillim/)
 
 ## Projects
 Project (Github) | Description | Technologies
